@@ -65,3 +65,7 @@ javac SortingVisualizer.java
 java SortingVisualizer
 ```
 ## Screenshots 📸
+**Before sorting :**
+![Screenshot 2024-10-12 132957](https://github.com/user-attachments/assets/d01dc3fa-856c-4e50-8c49-78a23de4ecb3)
+**After sorting :**
+![Screenshot 2024-10-12 133012](https://github.com/user-attachments/assets/2a4d3b83-1e97-4e11-bc0b-5e493822a10c)
